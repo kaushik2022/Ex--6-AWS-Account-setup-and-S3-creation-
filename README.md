@@ -45,3 +45,17 @@ You can upload files of any extension, folders, and subfolders. The images below
 ### Step 4: Upload a Folder
 
 You can also upload a folder to the bucket. If your local folder contains subfolders and data, all data inside the parent folder will be uploaded. The images below show how to upload a folder by dragging and dropping or browsing.
+
+![image](https://github.com/user-attachments/assets/f0ad8c4e-0d66-490f-a4e0-3ecc1d39ba25)
+
+### Step 5: Delete the Bucket
+
+To delete a bucket, you must retype the bucket name. This policy is implemented by Amazon to confirm your action because deleting a bucket can remove large amounts of data.
+
+![image](https://github.com/user-attachments/assets/c09b5618-9d48-4d70-b59a-e76dd9c163f6)
+![image](https://github.com/user-attachments/assets/a90ffaae-5bbd-4306-9227-f6f4dd715395)
+
+## Result
+
+Successfully created, managed, and deleted an S3 bucket on AWS, demonstrating the ability to upload, access, and control objects within Amazon S3.
+
